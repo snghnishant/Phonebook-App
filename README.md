@@ -1,1 +1,3 @@
-# notes-app-fullstackopen
+# Phonebook App
+
+Deployed on Heroku
